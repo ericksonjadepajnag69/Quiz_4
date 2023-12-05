@@ -1,0 +1,36 @@
+.h1 {
+    background-color:  blue;
+    text-align: center;
+    font-size: medium;
+    padding: 30px;
+}
+.flex-con{
+    background-color: yellowgreen;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.flex-con2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 20px;
+}
+.flex-item {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+.item1{
+    height: 50px;
+    width: 50px;
+}
+
+.cn3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-weight: bold;
+    font-size: larger;
+}
